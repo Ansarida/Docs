@@ -52,6 +52,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 7.14Km | 2.4G | 500hz | 100mw | Wing | No | Bri'ish | [Link](https://youtu.be/FsQiL0LYnaY) |
 | 6.43Km | 2.4G | 50Hz | 100mW | Wing | No | DivisionRc | [Link](https://youtu.be/3VAJ14y0ZIY) |
 | 5.07Km | 2.4G | 250Hz | 500mW | Quad | No | ZoFPV | [Link](https://youtu.be/JyNvywwi90s) |
+| 31.0Km | 2.4G | 250Hz | 1000mW | Wing | No | Ansarida | [Link](https://www.youtube.com/watch?v=ymEPcT306Ys&t=19s) |
 
 ## 900 MHz Rankings
 
